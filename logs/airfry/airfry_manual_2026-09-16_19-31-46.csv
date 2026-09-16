@@ -1,0 +1,6 @@
+timestamp_utc,elapsed_s,cook_type,cook_name,mode,fan_speed_rpm,chamber_temp_f,effective_probe_temp_f,probe_source,esp32_probe_temp_f,inkbird_connected,inkbird_internal_1_f,inkbird_internal_2_f,inkbird_internal_3_f,inkbird_internal_4_f,inkbird_ambient_f,drawer_closed,set_temperature_f,top_heater_duty_pct,bottom_heater_duty_pct,paused,fault
+2026-09-16T23:31:46.538+00:00,0.013,manual,Manual cook,temp,1200,106.2,71.19,inkbird_lowest_internal,78.3,1,71.4,71.54,71.46,71.19,71.6,1,375.0,0.0,0.0,0,NONE
+2026-09-16T23:31:47.450+00:00,0.925,manual,Manual cook,temp,1200,106.2,71.19,inkbird_lowest_internal,78.3,1,71.4,71.54,71.46,71.19,71.6,1,375.0,100.0,0.0,0,NONE
+2026-09-16T23:31:47.950+00:00,1.426,manual,Manual cook,temp,1200,106.2,71.19,inkbird_lowest_internal,78.3,1,71.4,71.54,71.46,71.19,71.6,1,375.0,100.0,0.0,0,NONE
+2026-09-16T23:31:48.451+00:00,1.927,manual,Manual cook,temp,1200,105.3,71.19,inkbird_lowest_internal,77.9,1,71.4,71.54,71.46,71.19,71.6,1,375.0,100.0,0.0,0,NONE
+2026-09-16T23:31:49.450+00:00,2.925,manual,Manual cook,temp,1200,105.8,71.2,inkbird_lowest_internal,78.3,1,71.4,71.54,71.46,71.2,71.6,1,375.0,100.0,0.0,0,NONE
