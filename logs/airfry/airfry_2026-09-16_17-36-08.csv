@@ -1,6 +1,0 @@
-timestamp_utc,elapsed_s,mode,fan_speed_rpm,chamber_temp_f,effective_probe_temp_f,probe_source,esp32_probe_temp_f,inkbird_connected,inkbird_internal_1_f,inkbird_internal_2_f,inkbird_internal_3_f,inkbird_internal_4_f,inkbird_ambient_f,drawer_closed,set_temperature_f,top_heater_duty_pct,bottom_heater_duty_pct,paused,fault
-2026-09-16T21:36:08.028+00:00,0.001,temp,2100,91.4,76.1,esp32,76.1,0,,,,,,1,375.0,0.0,0.0,0,NONE
-2026-09-16T21:36:08.774+00:00,0.747,temp,2100,82.4,76.6,esp32,76.6,0,,,,,,1,375.0,0.0,0.0,0,NONE
-2026-09-16T21:36:09.275+00:00,1.248,temp,2100,77.0,75.7,esp32,75.7,0,,,,,,1,375.0,0.0,0.0,0,NONE
-2026-09-16T21:36:09.775+00:00,1.748,temp,2100,77.4,75.7,esp32,75.7,0,,,,,,1,375.0,0.0,0.0,0,NONE
-2026-09-16T21:36:10.275+00:00,2.248,temp,2100,80.2,76.6,esp32,76.6,0,,,,,,1,375.0,0.0,0.0,0,NONE
